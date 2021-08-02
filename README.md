@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hilton Mutuku
 - 👀 I’m interested in machine Learning, Data analysis and Data Science
-- 🌱 I’m currently learning Deep Learning 
+- 🌱 I’m currently learning Deep Learning and also machine learning
 - 💞️ I’m looking to collaborate on Artificial intelligence
 - 📫 How to reach me hiltonmutuku@gmail.com or +254 759423430
 
